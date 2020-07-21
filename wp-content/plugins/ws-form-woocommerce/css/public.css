@@ -1,0 +1,8 @@
+body.wsf-wc-product-price-hide .product .price,
+body.wsf-wc-product-price-variation-hide .product form.cart .woocommerce-variation-price,
+body.wsf-wc-product-price-variation-hide .product form.cart .woocommerce-variation-price .price,
+body.wsf-wc-product-quantity-hide .product form.cart .quantity,
+body.wsf-wc-product-quantity-hide .product form.cart .qty,
+body.wsf-wc-product-add-to-cart-hide .product form.cart .single_add_to_cart_button {
+	display: none !important;
+}

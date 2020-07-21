@@ -1,0 +1,9 @@
+2020-07-21T17:10:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_field(), 0 passed in /var/www/html/coolnerd/wp-content/themes/coolnerd_child/cool-support.php on line 14 and at least 1 expected in /var/www/html/coolnerd/wp-content/plugins/advanced-custom-fields-pro/includes/api/api-template.php:20
+Stack trace:
+#0 /var/www/html/coolnerd/wp-content/themes/coolnerd_child/cool-support.php(14): get_field()
+#1 /var/www/html/coolnerd/wp-includes/template-loader.php(106): include('/var/www/html/c...')
+#2 /var/www/html/coolnerd/wp-blog-header.php(19): require_once('/var/www/html/c...')
+#3 /var/www/html/coolnerd/index.php(17): require('/var/www/html/c...')
+#4 {main}
+  thrown in /var/www/html/coolnerd/wp-content/plugins/advanced-custom-fields-pro/includes/api/api-template.php on line 20
+

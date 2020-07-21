@@ -1,0 +1,102 @@
+{"wizard_categories": [
+
+	{	
+
+		"id"			:	"woocommerce",
+		"label" 		: 	"WooCommerce",
+		"file_path"		:	"woocommerce/",
+		"wizards"		:	[
+
+			{
+				"id"					:	"woocommerce-basic",
+				"label" 				: 	"Basic",
+				"file_json"				:	"ws-form-basic.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-donate",
+				"label" 				: 	"Donate",
+				"file_json"				:	"ws-form-donate.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-calculations",
+				"label" 				: 	"Calculations",
+				"file_json"				:	"ws-form-calculations.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-color-swatches",
+				"label" 				: 	"Color Swatches",
+				"file_json"				:	"ws-form-color-swatches.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-conditional-logic",
+				"label" 				: 	"Conditional Logic",
+				"file_json"				:	"ws-form-conditional-logic.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-configurator",
+				"label" 				: 	"Configurator",
+				"file_json"				:	"ws-form-configurator.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-configurator-cascading",
+				"label" 				: 	"Configurator (Cascading)",
+				"file_json"				:	"ws-form-configurator-cascading.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-file-upload",
+				"label" 				: 	"File Upload",
+				"file_json"				:	"ws-form-file-upload.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-hidden-fields",
+				"label" 				: 	"Hidden Fields",
+				"file_json"				:	"ws-form-hidden-fields.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-multi-tab",
+				"label" 				: 	"Multi-Tab",
+				"file_json"				:	"ws-form-multi-tab.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-personalization",
+				"label" 				: 	"Personalization",
+				"file_json"				:	"ws-form-personalization.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-repeatable-sections",
+				"label" 				: 	"Repeatable Sections",
+				"file_json"				:	"ws-form-repeatable-sections.json",
+				"pro_required"			:	1
+			},
+
+			{
+				"id"					:	"woocommerce-woocommerce-field-type-demo",
+				"label" 				: 	"Demo: Field Types",
+				"file_json"				:	"ws-form-woocommerce-field-type-demo.json",
+				"pro_required"			:	1
+			}
+		]
+	}
+]}

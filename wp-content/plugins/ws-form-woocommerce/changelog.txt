@@ -1,0 +1,142 @@
+*** WooCommerce WS Form PRO Product Add-Ons ***
+
+2020-07-08 - version 1.1.29
+* Bug Fix: Update script priority
+
+2020-06-08 - version 1.1.28
+* Added: Support for WooCommerce product shortcode
+
+2020-05-20 - version 1.1.27
+* Changed: Action firing on 'processing' and 'completed' statuses
+
+2020-05-19 - version 1.1.26
+* Changed: Script / Style enqueues
+* Bug Fix: Form to product term mapping
+* Bug Fix: Replace all function
+
+2020-05-14 - version 1.1.25
+* Added: Support for new WS Form data structure format
+
+2020-05-11 - version 1.1.24
+* Changed: Run WS Form actions setting set to true by default
+
+2020-05-02 - version 1.1.23
+* Added: Permalink workaround on cart_item_permalink hook in case other plugins destroy the URL
+
+2020-04-29 - version 1.1.22
+* Changed: Template prices to exclude decimal character to ensure currency compatibility worldwide
+
+2020-04-24 - version 1.1.21
+* Changed: Action firing priority
+
+2020-04-24 - version 1.1.20
+* Changed: Console debug
+
+2020-04-17 - version 1.1.19
+* Bug Fix: Checkout NONCE
+
+2020-04-11 - version 1.1.18
+* Added: Improved security
+* Bug Fix: Wishlist totals
+
+2020-03-12 - version 1.1.17
+* Added: WooCommerce version 4.0.0 tested
+
+2020-03-04 - version 1.1.16
+* Bug Fix: Style fix for storefront skin
+
+2020-03-04 - version 1.1.15
+* Added: Pre-load option for Quick View
+
+2020-03-03 - version 1.1.14
+* Bug Fix: Remove confirm
+
+2020-02-27 - version 1.1.13
+* Added: Support for repeatable sections
+
+2020-02-17 - version 1.1.12
+* Added: Better wishlist compatibility
+* Changed: Improved cart edit functionality
+
+2020-02-17 - version 1.1.11
+* Bug Fix: Ajax product setting requests
+* Changed: Improved product ID reading and localized product element rendering
+
+2020-02-17 - version 1.1.10
+* Added: Add to Cart text using form settings
+
+2020-02-14 - version 1.1.9
+* Added: Wishlist Add to Cart visibility
+
+2020-02-12 - version 1.1.8
+* Bug Fix: build_product_form_cache
+
+2020-02-11 - version 1.1.7
+* Added: Ability to set min and max quantities in form
+* Bug Fix: Queried object ID checks
+
+2020-02-11 - version 1.1.6
+* Changed: Better method of rebuilding product to form lookups
+
+2020-02-08 - version 1.1.5
+* Bug Fix: Form select reset on remove
+
+2020-02-05 - version 1.1.4
+* Bug Fix: Price fields only rendering issue
+
+2020-02-05 - version 1.1.3
+* Added: Cart item total field
+
+2020-02-01 - version 1.1.2
+* Changed: Text improvements
+
+2020-02-01 - version 1.1.1
+* Bug Fix: Minor user interface fix
+
+2020-01-31 - version 1.1.0
+* Added: Assign product to categories and tabs
+
+2020-01-28 - version 1.0.14
+* Bug Fix: Cart item permalink fix
+
+2020-01-22 - version 1.0.13
+* Added: Auto show/hide feature for WooCommerce form fields
+
+2020-01-22 - version 1.0.12
+* Bug Fix: Zero cart total checks
+
+2020-01-22 - version 1.0.11
+* Changed: Improved total calculation methods
+
+2020-01-22 - version 1.0.10
+* Changed: Improved number formatting
+
+2020-01-21 - version 1.0.9
+* Bug Fix: Ensures published form data used throughout
+
+2020-01-20 - version 1.0.8
+* Bug Fix: Root product meta fix when calculating cart
+
+2019-12-08 - version 1.0.7
+* Bug Fix: Variation ID calculation fix
+
+2019-11-12 - version 1.0.6
+* Bug Fix: Fixed double calculation of cart items (third party plugins firing woocommerce_before_calculate_totals)
+
+2019-11-12 - version 1.0.5
+* Changed: Improved targeting of hidden elements. WooCommerce 3.8 testing.
+
+2019-11-10 - version 1.0.4
+* Changed: Improved targeting of hidden elements
+
+2019-10-30 - version 1.0.3
+* Changed: Added support for styling the WooCommerce variations table like WS Form fields
+
+2019-10-16 - version 1.0.2
+* Added: Added wizard for new products
+
+2019-10-12 - version 1.0.1
+* Added: Licensing model moved to WooCommerce
+
+2019-09-24 - version 1.0.0
+* Initial release

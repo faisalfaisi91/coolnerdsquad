@@ -1,0 +1,24 @@
+2020-07-15T21:52:58+00:00 CRITICAL Uncaught Error: Call to undefined function twentytwenty_site_logo() in /var/www/html/coolnerd/wp-content/themes/coolnerd_child_theme/header.php:40
+Stack trace:
+#0 /var/www/html/coolnerd/wp-includes/template.php(723): require_once()
+#1 /var/www/html/coolnerd/wp-includes/template.php(672): load_template()
+#2 /var/www/html/coolnerd/wp-includes/general-template.php(41): locate_template()
+#3 /var/www/html/coolnerd/wp-content/themes/coolnerd_child_theme/singular.php(13): get_header()
+#4 /var/www/html/coolnerd/wp-includes/template-loader.php(106): include('/var/www/html/c...')
+#5 /var/www/html/coolnerd/wp-blog-header.php(19): require_once('/var/www/html/c...')
+#6 /var/www/html/coolnerd/index.php(17): require('/var/www/html/c...')
+#7 {main}
+  thrown in /var/www/html/coolnerd/wp-content/themes/coolnerd_child_theme/header.php on line 40
+
+2020-07-15T21:53:09+00:00 CRITICAL Uncaught Error: Call to undefined function twentytwenty_site_logo() in /var/www/html/coolnerd/wp-content/themes/coolnerd_child_theme/header.php:40
+Stack trace:
+#0 /var/www/html/coolnerd/wp-includes/template.php(723): require_once()
+#1 /var/www/html/coolnerd/wp-includes/template.php(672): load_template()
+#2 /var/www/html/coolnerd/wp-includes/general-template.php(41): locate_template()
+#3 /var/www/html/coolnerd/wp-content/themes/coolnerd_child_theme/template-homepage.php(19): get_header()
+#4 /var/www/html/coolnerd/wp-includes/template-loader.php(106): include('/var/www/html/c...')
+#5 /var/www/html/coolnerd/wp-blog-header.php(19): require_once('/var/www/html/c...')
+#6 /var/www/html/coolnerd/index.php(17): require('/var/www/html/c...')
+#7 {main}
+  thrown in /var/www/html/coolnerd/wp-content/themes/coolnerd_child_theme/header.php on line 40
+
