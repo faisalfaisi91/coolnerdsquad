@@ -36,7 +36,7 @@ $faqs = get_field('faqs', $product_id);
                 <span>564</span>
             </div>
             <div class="mt-3">
-                <button class="btn btn-success" type="button">BUY NOW</button>
+                <a href="<?php echo get_permalink($product_id); ?>" class="btn btn-success">BOOK NOW</a>
             </div>
         </div>
     </div>
@@ -76,6 +76,7 @@ $faqs = get_field('faqs', $product_id);
     <div class="mb-5"></div>
     <div class="row">
         <div class="col-lg-12 mx-auto">
+            <h3>Frequently Asked Questions</h3>
             <!-- Accordion -->
             <div id="accordionExample" class="accordion shadow">
                 <!-- Accordion item 1 -->

@@ -1,0 +1,2 @@
+2020-07-23T17:29:34+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /var/www/html/coolnerdsquad/wp-content/themes/coolnerd_child/woocommerce/single-product/related.php on line 56
+

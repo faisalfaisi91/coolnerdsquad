@@ -1,0 +1,8 @@
+.single-product .product .pagination-single,
+.single-product .product .comment-reply-title,
+.single-product .product .section-inner.thin.max-percentage {
+    display: none;
+}
+.woocommerce-page div.product div.summary {
+    width: 100%;
+}

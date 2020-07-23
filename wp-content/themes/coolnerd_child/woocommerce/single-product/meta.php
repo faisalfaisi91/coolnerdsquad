@@ -21,6 +21,7 @@ if (!defined('ABSPATH')) {
 }
 
 global $product;
+/*
 ?>
 <div class="product_meta">
 
@@ -39,3 +40,4 @@ global $product;
 	<?php do_action('woocommerce_product_meta_end'); ?>
 
 </div>
+*/
