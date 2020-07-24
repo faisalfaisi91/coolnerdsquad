@@ -5,4 +5,5 @@
 }
 .woocommerce-page div.product div.summary {
     width: 100%;
+    float: none;
 }
