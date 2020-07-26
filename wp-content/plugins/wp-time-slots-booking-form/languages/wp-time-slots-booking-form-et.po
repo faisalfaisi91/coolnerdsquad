@@ -1,0 +1,772 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Time Slots Booking Form\n"
+"POT-Creation-Date: 2019-01-26 14:54+0100\n"
+"PO-Revision-Date: 2020-05-18 19:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/icalexport.addon.php:82
+msgid "iCal timezone difference vs server time"
+msgstr ""
+
+#: addons/icalexport.addon.php:93
+msgid "Observe daylight saving time?"
+msgstr ""
+
+#: addons/icalexport.addon.php:101
+msgid "Daylight saving time zone"
+msgstr ""
+
+#: addons/icalexport.addon.php:109
+msgid "Attach iCal file to notification emails?"
+msgstr ""
+
+#: addons/icalexport.addon.php:119
+msgid "iCal entry summary"
+msgstr ""
+
+#: addons/icalexport.addon.php:126
+msgid "iCal entry description"
+msgstr ""
+
+#: addons/icalexport.addon.php:151
+msgid "The add-on adds support for exporting iCal files."
+msgstr ""
+
+#: controllers/elementor/cp-elementor-widget.inc.php:54
+msgid "CodePeople"
+msgstr ""
+
+#: controllers/elementor/elementorwidget_class.inc.php:82
+#: cp-main-class.inc.php:623 cp-main-class.inc.php:625
+msgid "Insert WP Time Slots Booking Form"
+msgstr ""
+
+#: controllers/elementor/elementorwidget_class.inc.php:96
+msgid "Select Form"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:189 cp-admin-int-message-list.inc.php:149
+msgid "ID"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:189
+msgid "Form Name"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:189 cp-admin-int-message-list.inc.php:154
+msgid "Options"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:189
+msgid "Shortcode for Pages and Posts"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:205
+msgid "Rename"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:206 cp-admin-int.inc.php:58
+msgid "Edit"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:207
+msgid "Publish"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:209 cp-admin-int-message-list.inc.php:91
+msgid "Booking Orders"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:210 cp-admin-int-schedule.inc.php:26
+msgid "Schedule"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:211
+msgid "Add Booking"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:212
+msgid "Stats"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:214
+msgid "Clone"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:215
+msgid "Delete"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:254 cp-admin-int.inc.php:789
+msgid "Request Custom Modifications"
+msgstr ""
+
+#: cp-admin-int-list.inc.php:254 cp-admin-int.inc.php:789
+#: cp-main-class.inc.php:566
+msgid "Help"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:25
+msgid "Manually updated"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:116 cp-admin-int-report.inc.php:138
+#: cp-admin-int-schedule.inc.php:64
+msgid "Export to CSV"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:117 cp-admin-int-report.inc.php:139
+#: cp-admin-int-schedule.inc.php:65
+msgid "Filter"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:136
+msgid "&laquo; Previous"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:137
+msgid "Next &raquo;"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:150
+msgid "Submission Date"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:151
+msgid "Email"
+msgstr "E-post"
+
+#: cp-admin-int-message-list.inc.php:152 cp-admin-int.inc.php:566
+#: cp-admin-int.inc.php:604
+msgid "Message"
+msgstr "Teade"
+
+#: cp-admin-int-message-list.inc.php:153
+msgid "Paid Status"
+msgstr ""
+
+#: cp-admin-int-message-list.inc.php:183
+msgid "Paid"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:130
+msgid "All Items"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:154
+msgid "Submissions per day in the selected date range."
+msgstr ""
+
+#: cp-admin-int-report.inc.php:154
+msgid "Days from"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:167
+msgid "Total submissions per hour in the selected date range."
+msgstr ""
+
+#: cp-admin-int-report.inc.php:167
+msgid "Hours from 0 to 23"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:184
+msgid "Select field for the report"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:197
+msgid "Report of values for"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:221
+msgid ""
+"Number of times that appears each value. Percent in relation to the total of "
+"submissions."
+msgstr ""
+
+#: cp-admin-int-report.inc.php:221
+msgid "Date range from"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:221
+msgid "to"
+msgstr ""
+
+#: cp-admin-int-report.inc.php:232
+msgid "Print Stats"
+msgstr ""
+
+#: cp-admin-int-schedule.inc.php:31
+msgid "Change to Schedule Calendar View"
+msgstr ""
+
+#: cp-admin-int-schedule.inc.php:33
+msgid "Change to Schedule List View"
+msgstr ""
+
+#: cp-admin-int-schedule.inc.php:102
+msgid "Print"
+msgstr ""
+
+#: cp-admin-int.inc.php:68
+msgid "Save Changes and Return"
+msgstr ""
+
+#: cp-admin-int.inc.php:69 cp-admin-int.inc.php:782
+msgid "Return to the calendars list"
+msgstr ""
+
+#: cp-admin-int.inc.php:77
+msgid "Editor"
+msgstr ""
+
+#: cp-admin-int.inc.php:81
+msgid "General Settings"
+msgstr ""
+
+#: cp-admin-int.inc.php:85
+msgid "Notification Emails"
+msgstr ""
+
+#: cp-admin-int.inc.php:89
+msgid "Antispam"
+msgstr ""
+
+#: cp-admin-int.inc.php:93
+msgid "Reports"
+msgstr ""
+
+#: cp-admin-int.inc.php:97
+msgid "Add Ons"
+msgstr ""
+
+#: cp-admin-int.inc.php:179
+msgid "Add a Field"
+msgstr ""
+
+#: cp-admin-int.inc.php:180
+msgid "Field Settings"
+msgstr ""
+
+#: cp-admin-int.inc.php:181
+msgid "Form Settings"
+msgstr ""
+
+#: cp-admin-int.inc.php:219
+msgid "Labels and Texts"
+msgstr ""
+
+#: cp-admin-int.inc.php:222
+msgid "Button Labels"
+msgstr ""
+
+#: cp-admin-int.inc.php:227
+msgid "Submit button label (text)"
+msgstr ""
+
+#: cp-admin-int.inc.php:231
+msgid "Page {0} of {0} (text"
+msgstr ""
+
+#: cp-admin-int.inc.php:237
+msgid "Previous page button label (text)"
+msgstr ""
+
+#: cp-admin-int.inc.php:240
+msgid "Next page button label (text)"
+msgstr ""
+
+#: cp-admin-int.inc.php:251
+msgid "Error messages for validation rules"
+msgstr ""
+
+#: cp-admin-int.inc.php:256
+msgid "\"is required\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:260
+msgid "\"is email\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:266
+msgid "\"is valid captcha\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:269
+msgid "\"is valid date (mm/dd/yyyy)\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:273
+msgid "\"is valid date (dd/mm/yyyy)\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:277
+msgid "\"is number\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:283
+msgid "\"only digits\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:287
+msgid "\"under maximum\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:293
+msgid "\"over minimum\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:297
+msgid "\"Max appointments allowed messsage\" text"
+msgstr ""
+
+#: cp-admin-int.inc.php:306
+msgid "Next Step - General Settings >"
+msgstr ""
+
+#: cp-admin-int.inc.php:307 cp-admin-int.inc.php:483 cp-admin-int.inc.php:612
+#: cp-admin-int.inc.php:684 cp-admin-int.inc.php:747 cp-admin-int.inc.php:773
+msgid "Save and Publish"
+msgstr ""
+
+#: cp-admin-int.inc.php:308 cp-admin-int.inc.php:484 cp-admin-int.inc.php:613
+#: cp-admin-int.inc.php:685 cp-admin-int.inc.php:748 cp-admin-int.inc.php:774
+msgid "Save and Return"
+msgstr ""
+
+#: cp-admin-int.inc.php:319 cp-admin-int.inc.php:322
+msgid "Confirmation / Thank you page"
+msgstr ""
+
+#: cp-admin-int.inc.php:329
+msgid "Booking Status"
+msgstr ""
+
+#: cp-admin-int.inc.php:332
+msgid "Default status of new bookings"
+msgstr ""
+
+#: cp-admin-int.inc.php:337
+msgid "Default status of paid bookings"
+msgstr ""
+
+#: cp-admin-int.inc.php:344
+msgid "Global Calendar Settings"
+msgstr ""
+
+#: cp-admin-int.inc.php:348
+msgid "Date Format"
+msgstr ""
+
+#: cp-admin-int.inc.php:363
+msgid "Calendar Language"
+msgstr ""
+
+#: cp-admin-int.inc.php:446
+msgid "Payment Integration Settings"
+msgstr ""
+
+#: cp-admin-int.inc.php:450
+msgid "Product name at payment page"
+msgstr ""
+
+#: cp-admin-int.inc.php:454
+msgid "Label of \"Pay Later\" option (if enabled)"
+msgstr ""
+
+#: cp-admin-int.inc.php:458
+msgid "Note: To enable a payment method enable first the related addon."
+msgstr ""
+
+#: cp-admin-int.inc.php:461
+msgid "Users with access to the messages lis"
+msgstr ""
+
+#: cp-admin-int.inc.php:465
+msgid "Select users with access (CTRL+click for multiple selection)"
+msgstr ""
+
+#: cp-admin-int.inc.php:482
+msgid "Next Step - Notification Emails >"
+msgstr ""
+
+#: cp-admin-int.inc.php:490
+msgid "Form Processing"
+msgstr ""
+
+#: cp-admin-int.inc.php:490
+msgid "Email Settings"
+msgstr ""
+
+#: cp-admin-int.inc.php:495
+msgid "Send email \"From\""
+msgstr ""
+
+#: cp-admin-int.inc.php:499
+msgid "From fixed email address indicated below - Recommended option"
+msgstr ""
+
+#: cp-admin-int.inc.php:500
+msgid "From the email address indicated by the custome"
+msgstr ""
+
+#: cp-admin-int.inc.php:511
+msgid "\"From\" email (for fixed \"from\" addresses)"
+msgstr ""
+
+#: cp-admin-int.inc.php:515
+msgid "Send email \"To\""
+msgstr ""
+
+#: cp-admin-int.inc.php:519
+msgid "To the fixed email(s) address(es) indicated below - Recommended option"
+msgstr ""
+
+#: cp-admin-int.inc.php:520
+msgid ""
+"To the email address selected in a form field (ex: captcha image enabled is "
+"recommended in this case)"
+msgstr ""
+
+#: cp-admin-int.inc.php:523
+msgid ""
+"If you select \"To fixed...\" enter the destination emails in the next "
+"field. "
+msgstr ""
+
+#: cp-admin-int.inc.php:525
+msgid ""
+"If you select \"To email ...in form field\" then add a field like a drop-"
+"down, radio-button or checkbox that contains the email address in the field "
+"value (not needed in the field text but in the internal value)."
+msgstr ""
+
+#: cp-admin-int.inc.php:530
+msgid "Destination emails (comma separated)"
+msgstr ""
+
+#: cp-admin-int.inc.php:534
+msgid "Field that contains the destination email(s)"
+msgstr ""
+
+#: cp-admin-int.inc.php:542 cp-admin-int.inc.php:590 cp-admin-int.inc.php:725
+#: cp-settings.inc.php:160
+#, fuzzy
+#| msgid "Subject"
+msgid "Email subject"
+msgstr "Teema"
+
+#: cp-admin-int.inc.php:546
+msgid "Include additional information?"
+msgstr ""
+
+#: cp-admin-int.inc.php:550 cp-admin-int.inc.php:580 cp-admin-int.inc.php:628
+#: cp-admin-int.inc.php:700 cp-main-class.inc.php:302 cp-settings.inc.php:137
+msgid "Yes"
+msgstr ""
+
+#: cp-admin-int.inc.php:551 cp-admin-int.inc.php:581 cp-admin-int.inc.php:629
+#: cp-admin-int.inc.php:699 cp-settings.inc.php:136
+msgid "No"
+msgstr ""
+
+#: cp-admin-int.inc.php:556 cp-admin-int.inc.php:594 cp-admin-int.inc.php:729
+#: cp-settings.inc.php:164
+msgid "Email format?"
+msgstr ""
+
+#: cp-admin-int.inc.php:560 cp-admin-int.inc.php:598 cp-admin-int.inc.php:733
+#: cp-settings.inc.php:168
+msgid "Plain Text (default)"
+msgstr ""
+
+#: cp-admin-int.inc.php:561 cp-admin-int.inc.php:599 cp-admin-int.inc.php:734
+#: cp-settings.inc.php:169
+msgid "HTML (use html in the textarea below)"
+msgstr ""
+
+#: cp-admin-int.inc.php:572
+msgid "Email Copy to User"
+msgstr ""
+
+#: cp-admin-int.inc.php:576
+msgid "Send confirmation/thank you message to user?"
+msgstr ""
+
+#: cp-admin-int.inc.php:586
+msgid "Email field on the form"
+msgstr ""
+
+#: cp-admin-int.inc.php:611
+msgid "Next Step - Antispam >"
+msgstr ""
+
+#: cp-admin-int.inc.php:620
+msgid "Captcha Verification"
+msgstr ""
+
+#: cp-admin-int.inc.php:624
+#, fuzzy
+#| msgid "Please enter the captcha verification code."
+msgid "Use Captcha Verification?"
+msgstr "Palun sisesta captcha kontrollkood."
+
+#: cp-admin-int.inc.php:635
+msgid "Width"
+msgstr ""
+
+#: cp-admin-int.inc.php:637
+msgid "Height"
+msgstr ""
+
+#: cp-admin-int.inc.php:639
+msgid "Chars"
+msgstr ""
+
+#: cp-admin-int.inc.php:644
+msgid "Min font size"
+msgstr ""
+
+#: cp-admin-int.inc.php:646
+msgid "Max font size"
+msgstr ""
+
+#: cp-admin-int.inc.php:649
+msgid "Preview"
+msgstr ""
+
+#: cp-admin-int.inc.php:657
+msgid "Noise"
+msgstr ""
+
+#: cp-admin-int.inc.php:659
+msgid "Noise Length"
+msgstr ""
+
+#: cp-admin-int.inc.php:665
+msgid "Background"
+msgstr ""
+
+#: cp-admin-int.inc.php:667
+msgid "Border"
+msgstr ""
+
+#: cp-admin-int.inc.php:669
+msgid "Font"
+msgstr ""
+
+#: cp-admin-int.inc.php:683
+msgid "Next Step - Reports >"
+msgstr ""
+
+#: cp-admin-int.inc.php:691
+msgid "Automatic Reports: Send submissions in CSV format via email"
+msgstr ""
+
+#: cp-admin-int.inc.php:695 cp-settings.inc.php:133
+msgid "Enable Reports?"
+msgstr ""
+
+#: cp-admin-int.inc.php:705 cp-settings.inc.php:140
+msgid "Send report every"
+msgstr ""
+
+#: cp-admin-int.inc.php:706
+msgid "days (Put a 0 to send the report immediately after each submission)"
+msgstr ""
+
+#: cp-admin-int.inc.php:709
+msgid "Send report after this hour (server time)"
+msgstr ""
+
+#: cp-admin-int.inc.php:721
+msgid "Send the report to the following email addresses (comma separated)"
+msgstr ""
+
+#: cp-admin-int.inc.php:739
+msgid "Email Text (CSV file will be attached with the submissions)"
+msgstr ""
+
+#: cp-admin-int.inc.php:746
+msgid "Next Step - Add Ons >"
+msgstr ""
+
+#: cp-admin-int.inc.php:759
+msgid "<h2>Add-Ons Settings:</h2><hr />"
+msgstr ""
+
+#: cp-admin-int.inc.php:789
+msgid "Free Support"
+msgstr ""
+
+#: cp-main-class.inc.php:200
+msgid "[All]"
+msgstr ""
+
+#: cp-main-class.inc.php:201
+msgid "Approved"
+msgstr ""
+
+#: cp-main-class.inc.php:407
+msgid "cancel"
+msgstr ""
+
+#: cp-main-class.inc.php:408
+msgid "Cost"
+msgstr ""
+
+#: cp-main-class.inc.php:562
+msgid "Request custom changes"
+msgstr ""
+
+#: cp-main-class.inc.php:564
+msgid "Settings"
+msgstr ""
+
+#: cp-main-class.inc.php:1082
+msgid "Appointments"
+msgstr ""
+
+# RevTran=security ID
+#: cp-public-int.inc.php:27
+msgid "Security Code"
+msgstr "Turvakood"
+
+#: cp-public-int.inc.php:29
+msgid "Please enter the security code"
+msgstr "Palun sisesta turvakood"
+
+#: cp-publish-wizzard.inc.php:124 cp-publish-wizzard.inc.php:208
+msgid "You can also publish the form in a post/page, use the dedicated icon"
+msgstr ""
+
+#: cp-publish-wizzard.inc.php:124 cp-publish-wizzard.inc.php:208
+msgid "Insert "
+msgstr ""
+
+#: cp-publish-wizzard.inc.php:125
+msgid ""
+"which has been added to your Upload/Insert Menu, just below the title of "
+"your Post/Page"
+msgstr ""
+
+#: cp-publish-wizzard.inc.php:206
+msgid "Note"
+msgstr ""
+
+#: cp-publish-wizzard.inc.php:209
+msgid ""
+"which has been added to your Upload/Insert Menu, just below the title of "
+"your Post/Page or under the \"+\" icon if using the Gutemberg editor."
+msgstr ""
+
+#: cp-settings.inc.php:140
+msgid "days"
+msgstr ""
+
+#: cp-settings.inc.php:142
+msgid "Send after this hour (server time)"
+msgstr ""
+
+#: cp-settings.inc.php:152
+msgid "Send email from"
+msgstr ""
+
+#: cp-settings.inc.php:156
+msgid "Send to email(s)"
+msgstr ""
+
+#: cp-settings.inc.php:174
+msgid "Email Text (CSV file will be attached"
+msgstr ""
+
+#: cp-settings.inc.php:181
+msgid ""
+"Note: For setting up a report only for a specific form use the setting area "
+"available for that when editing each form settings"
+msgstr ""
+
+#: cp-settings.inc.php:196
+msgid "Script load method"
+msgstr ""
+
+#: cp-settings.inc.php:200
+msgid "Classic (Recommended)"
+msgstr ""
+
+#: cp-settings.inc.php:201
+msgid "Direct"
+msgstr ""
+
+#: cp-settings.inc.php:203
+msgid ""
+"Change the script load method if the form doesn't appear in the public "
+"website."
+msgstr ""
+
+#: cp-settings.inc.php:208
+msgid "Character encoding"
+msgstr ""
+
+#: cp-settings.inc.php:212
+msgid "Keep current charset (Recommended)"
+msgstr ""
+
+#: cp-settings.inc.php:213
+msgid "try this first"
+msgstr ""
+
+#: cp-settings.inc.php:216
+msgid ""
+"Update the charset if you are getting problems displaying special/non-latin "
+"characters. After updated you need to edit the special characters again."
+msgstr ""
+
+msgid "Incorrect captcha code. Please try again."
+msgstr "Vale captcha koodi. Palun proovige uuesti."
+
+# RevTran=Coupon Code
+msgid "Coupon code"
+msgstr "Kupongi kood"
+
+# RevTran=This field is mandatory.
+msgid "This field is required."
+msgstr "See väli on kohustuslik."
+
+# RevTran=Please enter a valid address
+msgid "Please enter a valid email address."
+msgstr "Palume sisestada kehtiv aadress"
+
+msgid "Please enter a valid captcha code."
+msgstr "Palun sisestage kehtiv captcha koodi."
+
+# RevTran=Please enter dates in this format (dd \\/dd \\/yyyy)
+msgid "Please enter a valid date with this format(mm/dd/yyyy)"
+msgstr "Palun sisestage kuupäevad seda formaati (pp/kk/aaaa)"
+
+# RevTran=Please enter a valid date in the format (dd \\/dd \\/yyyy)
+msgid "Please enter a valid date with this format(dd/mm/yyyy)"
+msgstr "Palun sisestage kehtiv kuupäeva selles formaadis (pp/kk/aaaa)"
+
+# RevTran=Please enter a number.
+msgid "Please enter a valid number."
+msgstr "Palun sisestage number."
+
+# RevTran=Please enter only numbers.
+msgid "Please enter only digits."
+msgstr "Palun sisestage ainult numbrid."
+
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Palun sisestage väärtus on väiksem või võrdne {0}."
+
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Palun sisestage väärtus on suurem kui või võrdne {0}."
